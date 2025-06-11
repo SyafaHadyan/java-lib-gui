@@ -1,4 +1,14 @@
-            - name: TruffleHog OSS
+name: TruffleHog OSS
+
+on:
+  push:
+    branches: [ "*" ]
+  pull_request:
+    branches: [ "*" ]
+  schedule:
+    - cron: '0 */24 * * *'
+
+
   # You may pin to the exact commit or the version.
   # uses: trufflesecurity/trufflehog@52d0ee5f5419ca938d3b7e358fe6f32131565026
   uses: trufflesecurity/trufflehog@v3.89.1
