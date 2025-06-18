@@ -1,0 +1,3 @@
+member;白上フブキ;user0;pass
+admin;猫又おかゆ;nyaa;cat
+member;Syafa;shr;testing

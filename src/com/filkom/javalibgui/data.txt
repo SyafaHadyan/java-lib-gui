@@ -1,0 +1,2 @@
+Operating System Concepts, 10th Edition;Abraham Silberschatz;null;null;true;874e1d7b-1bb5-4c04-9380-efe6b9280822;https://codex.cs.yale.edu/avi/os-book/OS10/images/os10-cover.jpg;2018-04-15
+Go Programming Language;Go Programming Language;user0;白上フブキ;false;8eb8d230-5c94-4014-861b-d518ce0a6cf5;https://a.com;2000-12-25
