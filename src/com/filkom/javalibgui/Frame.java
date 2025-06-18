@@ -257,7 +257,6 @@ public class Frame extends JFrame {
             setBackground(Color.decode("#F3E8EE"));
 
             JTabbedPane tabbedPane = new JTabbedPane();
-            tabbedPane.setFont(new Font("SansSerif", Font.PLAIN, 14));
 
             tabbedPane.addTab("Edit Buku", editBookPanel);
             tabbedPane.addTab("Tambah Buku", addBookPanel);
@@ -739,8 +738,6 @@ public class Frame extends JFrame {
             setBackground(Color.decode("#EAE8FF"));
 
             area.setEditable(false);
-
-            area.setFont(new Font("Monospaced", Font.PLAIN, 12));
 
             JButton back = createBackButton("MENU");
 
