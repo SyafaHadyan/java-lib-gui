@@ -462,7 +462,7 @@ public class Frame extends JFrame {
             editButton.addActionListener(e -> {
                 try {
                     String judul = titleField.getText();
-                    String penulis = titleField.getText();
+                    String penulis = authorField.getText();
                     URL coverBuku = new URI(coverField.getText()).toURL();
                     int year = Integer.parseUnsignedInt(yearField.getText());
                     int month = Integer.parseUnsignedInt(monthField.getText());
